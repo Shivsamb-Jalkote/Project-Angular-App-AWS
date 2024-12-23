@@ -1,6 +1,6 @@
 ## $${\color{blue} \textbf{Set} \textbf{Up}  \ \textbf{Backend}}$$
 
-This guide provides step-by-step instructions for setting up and running a Spring backend application on Ubuntu.
+This guide provides step-by-step instructions for setting up and runnin a Spring backend application on Ubuntu.
 
 ## Prerequisites
 - Ubuntu operating system
