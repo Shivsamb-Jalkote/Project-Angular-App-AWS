@@ -47,13 +47,14 @@ ng build
 sudo ng serve --host 0.0.0.0 --port=80
 ```
 
-![ng-serve-host](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/6e07ffc0-6c54-403c-9e86-62cd85f898fa)
+![Screenshot (652)](https://github.com/user-attachments/assets/bbfdceba-7c06-439c-96cc-3c96a536b44b)
 
 
 ## Step7: Go to browser and hit public-ip of frontend instance
 
 
-![angular-ip](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/bac432e1-9f04-4b7d-81c9-8ed8e879793b)
+![Screenshot (653)](https://github.com/user-attachments/assets/1991cc82-159e-4328-9cdf-e3525fb00f08)
+
 
 
 ## Step 8: Deploy the artifact to s3 bucket
@@ -64,12 +65,11 @@ aws s3 cp .  s3://angular-frontend-buck --recursive
 ````
 ## Step 9: Create Cloudfront Distribution
 
-![cloudfront-dis](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/b7734aee-4c8d-4cb7-a4a2-b2334399ddd8)
+![Screenshot (655)](https://github.com/user-attachments/assets/f06ff5a5-f543-4a8f-8340-6834df9dfc03)
 
 
 
 
-![Angular-cdn](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/aba82b3f-ca43-4a34-9a4e-89a4db42f7c2)
 
 ## Step 10: Create Hosted zone in route:53
 ![hosted zone](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/cc0abb81-4184-4dcd-b159-3b0e35f7a2d3)
