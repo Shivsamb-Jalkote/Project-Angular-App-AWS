@@ -60,7 +60,7 @@ ALTER TABLE `tbl_workers`
 --
 
 --
--- AUTO_INCREMENT for table `tbl_workers`
+-- AUTO_INCREMENT for table `tbl_workers
 --
 ALTER TABLE `tbl_workers`
   MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=43;
